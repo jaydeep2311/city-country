@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "countries": [
+    {
+      "id": 1,
+      "name": "Afghanistan"
+    },
+    {
+      "id": 2,
+      "name": "Pakistan"
+    },
+    {
+      "id": 3,
+      "name": "India"
+    },
+    {
+      "id": 4,
+      "name": "USA"
+    },
+    {
+      "name": "Bangladesh",
+      "id": 5
+    },
+    {
+      "name": "Bhutan",
+      "id": 6
+    },
+    {
+      "name": "Srilanka",
+      "id": 7
+    }
+  ],
+  "city": [
+    {
+      "id": 1,
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "population": "2333112313"
+    },
+    {
+      "id": 2,
+      "city": "Banglore",
+      "country": "India",
+      "population": "87879998"
+    },
+    {
+      "id": 3,
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "population": "98697697"
+    },
+    {
+      "id": 4,
+      "city": "Delhi",
+      "country": "India",
+      "population": "738737"
+    },
+    {
+      "city": "jamaica",
+      "country": "Pakistan",
+      "population": "98676666",
+      "id": 5
+    },
+    {
+      "city": "klcncn",
+      "country": "Pakistan",
+      "population": "3222322",
+      "id": 6
+    }
+  ]
+}
